@@ -10,6 +10,14 @@ Design Doc: [https://guides.github.com/features/mastering-markdown/](https://gui
 
   https://github.com/SATICSE/saticse.github.io/fork
 
+* Set your username:
+
+  git config --global user.name "username"
+  
+* Set your email address:
+
+  git config --global user.email "user@example.com"
+
 * git clone the repository 
 
   git clone https://github.com/**username**/saticse.github.io.git
