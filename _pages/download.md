@@ -4,6 +4,6 @@ layout: post
 permalink: /download/
 ---
 
-![jinn](images/jinn.jpg)
+![jinn](/images/jinn.jpg)
 
-
+**What do you want!! just rub me ;)**
