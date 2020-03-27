@@ -48,4 +48,4 @@ Design Doc: [https://guides.github.com/features/mastering-markdown/](https://gui
 
 * Create new pull request
 
-  Click the button on new pull request to merge those two branches
+  Click the button on new Pull request to request for merge your branche
