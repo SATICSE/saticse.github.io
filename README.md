@@ -22,10 +22,6 @@ Design Doc: [https://guides.github.com/features/mastering-markdown/](https://gui
 
   git clone https://github.com/**username**/saticse.github.io.git
 
-* Do some changes or updatation
-
-  nano README.md
-
 * cd into repository
 
   cd saticse.github.io
