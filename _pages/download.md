@@ -5,6 +5,6 @@ permalink: /download/
 
 ![jinn](/images/jinn.jpg)
 
-   What do you want!! just rub me!!!
+   do you want something! just rub me!!!
 
    [Your Wish](https://archive.org/)
