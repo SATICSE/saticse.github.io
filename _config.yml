@@ -5,7 +5,7 @@ url: https://saticse.github.io/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/saticse.github.io"
+baseurl: ""
 full-version: "https://saticse.github.io/"
 
 sass:
