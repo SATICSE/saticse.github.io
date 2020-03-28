@@ -4,6 +4,17 @@ Demo: [https://saticse.github.io/](https://saticse.github.io/)
 
 Design Doc: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown)
 
+## Install
+
+It' Jekyll god dammit:
+
+1. Clone this repository on your local,
+1. Install ruby,some gems ;), bundle and Jekyll
+1. Go at the root of the repository and run ```jekyll serve --watch```,
+1. Go to http://localhost:4000,
+
+
+
 ## Contributing
 
 * Fork the repositry from github
