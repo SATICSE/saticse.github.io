@@ -10,4 +10,6 @@ Now, SATI is academically and administratively an autonomous institute, however 
 
 The Department of Computer Science and Engineering at S.A.T.I was established in the year 1987 with an intake of 30 student seats of Bachelor of Engineering in CSE. In year 2000 the intake of BE CSE program has been increased to 60. After the merger of BE Information Technology with BE CSE the intake has been increased to 120 in the year 2017-2018.  
 
-<iframe class="video" src="https://www.youtube.com/watch?v=-gzegjvyhtI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gzegjvyhtI?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
