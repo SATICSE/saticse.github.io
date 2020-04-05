@@ -41,11 +41,11 @@ MIT’s Peter Shor shows that it’s possible to factor a number into its primes
 
 ### Quantum Error Correction
 
-Quantum error correction emerges from several groups around the world, including IBM. The theory shows that it’s possible to use a subtle redundancy to protect against environmental noise, making the physical realization of quantum computing significantly more tenable.
+Quantum error correction emerges from several groups around the world. The theory shows that it’s possible to use a subtle redundancy to protect against environmental noise, making the physical realization of quantum computing significantly more tenable.
 
 ### DiVincenzo Criteria
 
-IBM researcher David DiVincenzo outlines five minimal requirements for creating a quantum computer: (1) a well-defined scalable qubit array; (2) an ability to initialize the state of the qubits to a simple fiducial state; (3) a “universal” set of quantum gates; (4) long coherence times, much longer than the gate-operation time; (5) single-qubit measurement.
+Researcher David DiVincenzo outlines five minimal requirements for creating a quantum computer: (1) a well-defined scalable qubit array; (2) an ability to initialize the state of the qubits to a simple fiducial state; (3) a “universal” set of quantum gates; (4) long coherence times, much longer than the gate-operation time; (5) single-qubit measurement.
 
 ### Topological Codes
 
@@ -61,7 +61,7 @@ Robert Schoelkopf and his collaborators at Yale University invent circuit QED, a
 
 ### Transmon Superconducting Qubit
 
-Schoelkopf and his collaborators invent a type of superconducting qubit designed to have reduced sensitivity to charge noise, a major obstacle for long coherence. The superconducting qubit has been adopted by many superconducting quantum groups, including at IBM.
+Schoelkopf and his collaborators invent a type of superconducting qubit designed to have reduced sensitivity to charge noise, a major obstacle for long coherence. The superconducting qubit has been adopted by many superconducting quantum groups.
 
 ### Coherence Time Improvement
 
