@@ -14,7 +14,8 @@ author: xgupta
 
 A quantum (plural quanta) is the minimum amount of any physical entity (physical property) involved in an interaction. 
 
-***Quantum mechanical properties***
+### Quantum mechanical properties
+
 **Superposition**
 
 Superposition refers to a combination of states we would ordinarily describe independently. To make a classical analogy, if you play two musical notes at once, what you will hear is a superposition of the two notes.
@@ -28,7 +29,7 @@ Entanglement is a famously counter-intuitive quantum phenomenon describing behav
 Finally, quantum states can undergo interference due to a phenomenon known as phase. Quantum interference can be understood similarly to wave interference; when two waves are in phase, their amplitudes add, and when they are out of phase, their amplitudes cancel.
 
 
-***Wakling the history**
+### Wakling the history
 
 **The Uncertainty Principle**
 
@@ -73,3 +74,5 @@ With a single quantum state stabilized, it’s possible to detect both types of 
 **Breaking the Simulation Barrier**
 
 On October 19, Science published “Quantum Advantage with Shallow Circuits” – a significant mathematical result –a formula –that will guide the development of future quantum algorithms. It's a solid and necessary brick in the foundation of quantum computing. The formula stands apart because unlike Shor's algorithm, it proves that a quantum computer can always solve certain problems in a fixed number of steps, no matter the increased input. While on a classical computer, these same problems would require an increased number of steps as the input increases.
+
+<iframe width="240" height="180" src="https://www.youtube.com/embed/JhHMJCUmq28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
