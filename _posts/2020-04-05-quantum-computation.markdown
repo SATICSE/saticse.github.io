@@ -10,7 +10,7 @@ color: 1976D2
 author: xgupta
 ---
 
-![Karna]({{site.baseurl}}/images/bits.jpg)
+![](/images/bits.jpg)
 
 A quantum (plural quanta) is the minimum amount of any physical entity (physical property) involved in an interaction. 
 
