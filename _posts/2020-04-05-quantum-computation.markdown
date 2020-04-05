@@ -4,7 +4,7 @@ title:  "Quantum Computations"
 description: Quantum computing is the use of quantum-mechanical phenomena such as superposition, interference and entanglement to perform computation.
 date:   2020-04-05 06:51:47 +0530
 categories: jekyll update
-img: quant.jpg
+img: quantum640.jpg
 categories: [one, two]
 color: 1976D2
 author: xgupta
