@@ -29,7 +29,7 @@ Entanglement is a famously counter-intuitive quantum phenomenon describing behav
 Finally, quantum states can undergo interference due to a phenomenon known as phase. Quantum interference can be understood similarly to wave interference; when two waves are in phase, their amplitudes add, and when they are out of phase, their amplitudes cancel.
 
 
-## Wakling the history
+## Walking the history
 
 ### The Uncertainty Principle
 
