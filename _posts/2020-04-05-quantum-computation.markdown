@@ -75,4 +75,8 @@ With a single quantum state stabilized, it’s possible to detect both types of 
 
 On October 19, Science published “Quantum Advantage with Shallow Circuits” – a significant mathematical result –a formula –that will guide the development of future quantum algorithms. It's a solid and necessary brick in the foundation of quantum computing. The formula stands apart because unlike Shor's algorithm, it proves that a quantum computer can always solve certain problems in a fixed number of steps, no matter the increased input. While on a classical computer, these same problems would require an increased number of steps as the input increases.
 
+![programming a quantum computer](https://towardsdatascience.com/programming-a-quantum-computer-21baf506bdc4)
+
+![linear algebra for quantum computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing)
+
 <iframe width="240" height="180" src="https://www.youtube.com/embed/JhHMJCUmq28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
