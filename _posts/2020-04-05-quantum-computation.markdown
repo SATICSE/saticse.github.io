@@ -10,7 +10,10 @@ color: 1976D2
 author: xgupta
 ---
 
-![](/images/bits.jpg)
+
+<iframe width="240" height="180" src="https://www.youtube.com/embed/JhHMJCUmq28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 A quantum (plural quanta) is the minimum amount of any physical entity (physical property) involved in an interaction. 
 
@@ -79,4 +82,3 @@ On October 19, Science published “Quantum Advantage with Shallow Circuits” �
 
 [linear algebra for quantum computing](https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing)
 
-<iframe width="240" height="180" src="https://www.youtube.com/embed/JhHMJCUmq28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
