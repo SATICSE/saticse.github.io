@@ -6,7 +6,7 @@ date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: arch.png
 categories: [one, two]
-color: 43A047
+color: 37474F
 author: shivam
 ---
 
