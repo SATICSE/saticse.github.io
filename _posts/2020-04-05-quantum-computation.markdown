@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quantum Computations"
+title:  "Quantum Computating & Qiskit"
 description: Quantum computing is the use of quantum-mechanical phenomena such as superposition, interference and entanglement to perform computation.
 date:   2020-04-05 06:51:47 +0530
 categories: jekyll update
